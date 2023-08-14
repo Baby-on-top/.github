@@ -33,14 +33,14 @@
 
 ### Architecture
 
-![lignin-architecture](lignin-architecture.png)
+![lignin-architecture](https://github.com/Baby-on-top/.github/blob/main/profile/lignin-architecture.png?raw=true)
 
 ### CI/CD
 
-![lignin-cicd](lignin-cicd.png)
+![lignin-cicd](https://github.com/Baby-on-top/.github/blob/main/profile/lignin-cicd.png?raw=true)
 
 <a name="poster"></a>
 
 ## 포스터
 
-![lignin-poster](lignin-poster.png)
+![lignin-poster](https://github.com/Baby-on-top/.github/blob/main/profile/lignin-poster.png?raw=true)
